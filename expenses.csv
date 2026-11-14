@@ -1,0 +1,32 @@
+date,category,amount,note
+2026-08-01,Rent,18000,monthly
+2026-08-01,Salaries,30000,monthly
+2026-08-01,Electricity,6500,monthly
+2026-08-01,Transport,9000,monthly
+2026-08-01,Packaging,3500,monthly
+2026-08-01,Marketing,4000,monthly
+2026-09-01,Rent,18000,monthly
+2026-09-01,Salaries,30000,monthly
+2026-09-01,Electricity,7000,monthly
+2026-09-01,Transport,9500,monthly
+2026-09-01,Packaging,3800,monthly
+2026-09-01,Marketing,5000,monthly
+2026-10-01,Rent,18000,monthly
+2026-10-01,Salaries,30000,monthly
+2026-10-01,Electricity,7800,monthly
+2026-10-01,Transport,10500,monthly
+2026-10-01,Packaging,4200,monthly
+2026-10-01,Marketing,5500,monthly
+2026-08-03,Wastage,1330,weekly write-off
+2026-08-10,Wastage,1498,weekly write-off
+2026-08-17,Wastage,1732,weekly write-off
+2026-08-24,Wastage,1307,weekly write-off
+2026-08-31,Wastage,1914,weekly write-off
+2026-09-07,Wastage,1728,weekly write-off
+2026-09-14,Wastage,1729,weekly write-off
+2026-09-21,Wastage,2284,weekly write-off
+2026-09-28,Wastage,1952,weekly write-off
+2026-10-05,Wastage,2861,weekly write-off
+2026-10-12,Wastage,2961,weekly write-off
+2026-10-19,Wastage,3338,weekly write-off
+2026-10-26,Wastage,3366,weekly write-off
